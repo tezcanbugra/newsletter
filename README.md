@@ -6,16 +6,17 @@ It has MongoDB integration and all crawled news are stored in MongoDB for furthe
 
 All actions - email triggers - and errors are logged under /logs/ folder. 
 
+## Limitations
 
-## How to use? 
+AlphaVantage API ratelimits are applied. (Free version - 5 API requests per minute and 100 requests per day. ) 
 
-### Requirements
+## Requirements
 - Python 3
 - AlphaVantage API key
 - Gmail account
 - MongoDB 
 
-
+## How to use? 
 
 1 - Clone the repo 
 
