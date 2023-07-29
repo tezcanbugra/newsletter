@@ -28,7 +28,7 @@ git clone https://github.com/tezcanbugra/newsletter.git
 pip3 install -r requirements.txt
 ```
 
-3 - create .env file. You can modify the EXAMPLE.env file. 
+3 - create .env file. You can modify the .env.EXAMPLE file. 
 
 ```
 DEBUG=true
