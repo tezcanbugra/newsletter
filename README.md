@@ -1,6 +1,6 @@
 # newsletter
 
-Newsletter is an automated tool that consumes AlphaVantage's NEWS_SENTIMENT API and sends a mail notification to the receivers with the news and the sentiment score for the news. 
+Newsletter is an automated tool that consumes AlphaVantage's NEWS_SENTIMENT API to fetch stock news and sends a mail notification to the receivers with the news and the sentiment score for the related news. 
 
 It has MongoDB integration and all crawled news are stored in MongoDB for further processing/preventing repetitive emails. 
 
